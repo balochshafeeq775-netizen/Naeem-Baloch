@@ -1,0 +1,12 @@
+{
+  "name": "stitch-sports-cricket-store",
+  "version": "1.0.0",
+  "description": "SPORTS - Elite Cricket Craftsmanship & High-Performance Gear Pakistan",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve -l 3000 ."
+  },
+  "keywords": ["cricket", "ecommerce", "tailwind"],
+  "author": "",
+  "license": "ISC"
+}

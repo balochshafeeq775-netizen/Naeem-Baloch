@@ -1,0 +1,8 @@
+# Backup and temporary files
+*.bak
+__pycache__/
+*.pyc
+
+# Local system files
+.DS_Store
+Thumbs.db
